@@ -290,22 +290,9 @@ footer ul li {
     color: #000000;
 }
 
-@media only screen and (max-width:1400px ){
-    
 
-    .checkout-subtitle {
-        text-align: center;
-    }
-}
 
-@media only screen and (max-width:1200px ){
-    
-    .checkout-subtitle {
-        text-align: center;
-    }
-}
-
-@media only screen and (max-width:1066px ){
+@media only screen and (max-width:768px ){
 
     .container {
         width: 90%;
@@ -314,9 +301,6 @@ footer ul li {
     .checkout-subtitle {
         text-align: center;
     }
-}
-
-@media only screen and (max-width:768px ){
 
     .small-card .card-title, .medium-card .card-title {
         font-size: 1.5rem;
